@@ -1,0 +1,1 @@
+{"objectId": {"$select": {"query": {"className": "Recipes", "where": {"products":[ "%s","%s","%s","%s","%s","%s"]}}, "key": "objectId"}}}
